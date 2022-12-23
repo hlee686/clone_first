@@ -1,0 +1,427 @@
+.logo_trello{
+    position: relative;
+    width: 112px;
+    height: 22px;
+    top: 7px;
+    left: 110px;
+}
+
+.optionContainer{
+    position: relative;
+    margin: -30px;
+    left: 170px;
+    margin-left: 40px;
+}
+
+.optionContainer .headerOptions{
+    font-family: Arial, sans-serif;
+    display: flex;
+    list-style-type: none;  
+}
+
+.optionContainer .headerOptions li a{
+    color: black;
+    padding: 0 16px;
+    display: block;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.optionContainer .headerOptions li a:hover{
+    color:royalblue;
+}
+.optionContainer .headerOptions li a .material-icons{
+    position: absolute;
+    top: -1px;
+    font-size: 16px;
+}
+
+.start_trello .signIn{
+    position: absolute;
+    right: 320px;
+    top: 0;
+}
+
+.start_trello .forFree{
+    position: absolute;
+    right: 90px;
+    top: 0;
+    color: white;
+    background-color: royalblue;
+    width: 200px;
+    height: 60px;
+}
+
+.start_trello .forFree span{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    font-size: 1.2rem;
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+}
+
+.websiteBody{
+    position: relative;
+    align-items: right;
+}
+
+.websiteBody .bodyImg1{
+    width: 540px;
+    height: 476px;
+    display: block;
+    margin-left: auto;
+    margin-right: 150px;
+    margin-top: 110px;
+}
+
+.websiteBody .body_bgColor{
+    width: 1600px;
+    height: 700px;
+    background-color: violet;
+    position: absolute;
+    margin-top: 33px;
+}
+
+.body_bgColor .body_together{
+    width: 1300px;
+    height: 900px;
+    position: relative;
+    margin-top: -550px;
+    margin-left: 200px;
+}
+
+.websiteBody .body_bgColor .body_together .body_text{
+    color: white;
+    font-size: 30px;
+}
+
+.websiteBody .body_bgColor .body_together .body_text .body_text2{
+    font-size: 18px;
+}
+
+.websiteBody .body_bgColor .body_together .body_btn{
+    background-color: royalblue;
+    color: white;
+    border-radius: 5px;
+    width: 140px;
+    height: 40px;
+}   
+
+.websiteBody .body_bgColor .body_together .body_input{
+    width: 280px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.websiteBody .body_bgColor .body_together .body_video{
+    text-decoration: underline;
+    color: white;
+    font-size: 18px;
+}
+
+#playBtn{
+    position: absolute;
+    margin-top: 0;
+    margin-left: 4px;
+}
+
+.websiteBody2{
+    position: relative;
+    margin-top: 780px;
+    margin-left: 200px;
+    background-color: white;
+}
+
+.websiteBody2 .body2_text .title{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.websiteBody2 .body2_text .description{
+    font-size: 20px;
+}
+
+.underline2{
+    text-decoration: underline;
+    color: royalblue;
+}
+
+.websiteBody2 .body2_img{
+    float: right;
+    padding-right: 250px;
+}
+.websiteBody2 .body2_img .body2Img{
+    width: 700px;
+    height: 450px;
+}
+
+.websiteBody2 .cards .Boards{
+    border: .2px solid lightgrey;
+    border-radius: 5px;
+    display: inline-block;
+    border-left: 7px solid skyblue;
+}
+
+.body3 .body3_title{
+    position: relative;
+    padding-left: 200px;
+    padding-top: 120px;
+}
+
+.body3 .body3_title .body3_secTitle{
+    font-weight: bold;
+}
+
+.body3 .body3_cards{
+    position: relative;
+    padding-left: 200px;
+}
+
+.body3 .body3_cards .img1{
+    width: 350px;
+    height: 210px;
+}
+.body3 .body3_cards .img2{
+    width: 350px;
+    height: 210px;
+}
+.body3 .body3_cards .img3{
+    width: 350px;
+    height: 210px;
+}
+
+#leftBtn{
+    font-size: 50px;
+}
+
+#rightBtn{
+    font-size: 50px;
+}
+.body3 .btns{
+    position: relative;
+    margin-left: 1150px;
+}
+
+.bodyFooter{
+    position: relative;
+    padding-left: 200px;
+    padding-top: 50px;
+}
+
+.body3 .bodyFooter .comments{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.body3 .bodyFooterBtn{
+    width: 150px;
+    height: 40px;
+    left: 70px;
+    position: relative;
+    float: right;
+    margin-right: 340px;
+    margin-top: -63px;
+    border-radius: 4px;
+    background-color: white;
+}
+.body3 .bodyFooterBtn:hover{
+    background-color: skyblue;
+}
+
+.body4{
+    background-color: skyblue;
+    width: 120%;
+}
+.body4 .body4_text{
+    position: relative;
+    padding-left: 150px;
+    padding-top: 80px;
+}
+
+.body4 .body4_text .textMain{
+    position: relative;
+    margin: auto;
+    width: 50%;
+    padding-left: 60px;
+    color: white;
+    font-weight: bold;
+}
+
+.body4 .body4_text .textSub{
+    position: relative;
+    margin: auto;
+    width: 50%;
+    color: white;
+    padding-right: 80px;
+    font-weight: bold;
+}
+.body4 .body4_text .secondTxt{
+    position: relative;
+    margin: auto;
+    width: 50%;
+    display: block;
+    color: white;
+}
+.body4 .body4_text .body4_btn{
+    background-color: white;
+    position: relative;
+    margin: auto;
+    width: 50%;
+    display: block;
+    width: 200px;
+    height: 50px;
+    margin-left: 535px;
+    border-radius: 7px;
+}
+.body4 .body4_text .body4_btn:hover{
+    background-color: skyblue;
+}
+.body4 .box1{
+    position: relative;
+    margin-left: 270px;
+    width: 58%;
+    height: 220px;
+    border: 1px solid black;
+    border-radius: 6px;
+    background-color: white;
+}
+.body4 .box1 .box1_text{
+    position: absolute;
+    margin-left: 650px;
+    display: inline-block;
+    width: 800px;
+    height: 100%;
+}
+
+.body4 .box1 .box1_img{
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.body4 .box1 .box1_img .img1{
+    width: 450px;
+    height: 190px;
+    border-radius: 6px;
+}
+
+.body4 .box1_text .box1_text_title{
+    align-items: center;
+    font-size: 18px;
+}
+.body4 .box1_text .box1_text_p{
+    font-size: 18px;
+}
+
+.box1_text_under{
+    text-decoration: underline; 
+    color: royalblue;
+}
+
+.body4 .box2{
+    position: relative;
+    margin-left: 270px;
+    width: 58%;
+    height: 220px;
+    border: 1px solid black;
+    border-radius: 6px;
+    background-color: white;
+}
+
+.body4 .box2 .box2_text{
+    position: absolute;
+    margin-left: 100px;
+}
+
+.body4 .box2 .box2_img{
+    position: absolute;
+    margin-left: 420px;
+}
+.body4 .box2 .box2_img .img2{
+    width: 450px;
+    height: 190px;
+    border-radius: 6px; 
+    margin-top: 20px;
+}
+
+.box2_text_under{
+    text-decoration: underline;
+    color: royalblue;
+}
+
+.grow{
+    position: relative;
+    top: 100px;
+    left: 150px;
+}
+
+.grow .growText .growTitle{
+    font-weight: bold;
+}
+
+.grow .integration{
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+
+.grow .integration .inteImg{
+    width: 75px;
+    height: 75px;
+}
+
+.grow .integration .inteBtn{
+    background-color: white;
+    width: 190px;
+    height: 40px;
+    border-radius: 6px;
+}
+.grow .integration .inteBtn:hover{
+    background-color: skyblue;
+}
+.grow .automation{
+    position: relative;
+    left: 380px;
+    top: -260px;
+}
+.grow .automation .autoImg{
+    width: 75px;
+    height: 75px;
+}
+
+.grow .automation .autoBtn{
+    background-color: white;
+    width: 190px;
+    height: 40px;
+    border-radius: 6px;
+}
+
+.grow .automation .autoBtn:hover{
+    background-color: skyblue;
+}
+
+.grow .enterprise{
+    position: absolute;
+    left:750px;
+    top: 166px;
+}
+
+.grow .enterprise .enteImg{
+    width: 75px;
+    height: 75px;
+}
+.grow .enterprise .enteBtn{
+    background-color: white;
+    width: 190px;
+    height: 40px;
+    border-radius: 6px;
+}
+
+.grow .enterprise .enteBtn:hover{
+    background-color: skyblue;
+}
