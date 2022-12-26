@@ -425,3 +425,205 @@
 .grow .enterprise .enteBtn:hover{
     background-color: skyblue;
 }
+
+.code{
+    margin-left: 300px;
+    border: 1px solid lightgrey;    
+    width: 700px;
+}
+
+.thirtyDays{
+    margin-left: 1000px;
+    margin-top: -373px;
+    border: 1px solid lightgrey;
+    background-color: violet;
+    width: 270px;
+    height: 370px;
+    color: white;
+}
+
+.priceBox{
+    margin-left: 200px;
+}
+.priceTitle{
+    margin-left: 420px;
+}
+.priceSub{
+    margin-left: 330px;
+}
+.priceBtn{
+    margin-left: 510px;
+    background-color: royalblue;
+    color: white;
+    width: 140px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.priceOptions{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+.priceOptions .price1{
+    border: 0.5px solid lightgrey;
+    width: 300px;
+    height: 500px;
+}
+.priceOptions .price2{
+    border: 0.5px solid lightgrey;
+    width: 300px;
+    height: 500px;
+}
+.priceOptions .price3{
+    border: 0.5px solid lightgrey;
+    width: 300px;
+    height: 500px;
+    border: 2px solid royalblue;
+}
+.priceOptions .price4{
+    border: 0.5px solid lightgrey;
+    width: 300px;
+    height: 500px;
+}
+
+.price1_1{
+    font-weight: bold;
+}
+.price1_2{
+    width: 90px;
+    height: 30px;
+    margin-left: 40px;
+}
+.price1_3{
+    font-size: 40px;
+}
+
+.price1_4{
+    font-size: 15px;
+}
+
+.price2_1{
+    font-weight: bold;
+}
+
+.price2_2{
+    width: 90px;
+    height: 30px;
+    margin-left: 40px;
+}
+
+.price2_3{
+    font-size: 40px;
+}
+
+.price2_4{
+    font-size: 15px;
+}
+
+.price3_1{
+    font-weight: bold;
+}
+
+.price3_2{
+    width: 90px;
+    height: 30px;
+    margin-left: 40px;
+}
+
+.price3_3{
+    font-size: 40px;
+}
+
+.price3_4{
+    font-size: 15px;
+}
+
+.price4_1{
+    font-weight: bold;
+}
+
+.price4_2{
+    width: 120px;
+    height: 30px;
+    margin-left: 40px;
+}
+
+.price4_3{
+    font-size: 40px;
+}
+
+.price4_4{
+    font-size: 15px;
+}
+
+.joinText{
+    margin-left: 400px;
+}
+
+.images{
+    background-repeat: no-repeat;
+}
+
+.images{
+    margin-left: 280px;
+}
+
+.last{
+    display: block;
+    height: 200px; 
+    background-color: violet;
+}
+
+.get_started{
+    color: white;
+    margin-left: 630px;
+}
+
+.last_input{
+    width: 400px;
+    height: 50px;
+    border-radius: 5px;
+    margin-left: 530px;
+}
+
+.last_btn{
+    background-color: royalblue;
+    color: white;
+    border-radius: 5px;
+    width: 170px;
+    height: 50px;
+}
+.footer{
+    background-color: darkblue;
+    display: block;
+    margin-top: -22px;
+    display: flex;
+}
+
+.footer_font{
+    font-weight: 800;
+    color: white;
+    margin-left: 200px;
+}
+
+.about{
+    color: white; 
+    margin-left: 100px;  
+}
+
+.jobs{
+    color: white;
+    margin-left: 100px;
+}
+
+.apps{
+    color: white;
+    margin-left: 100px;
+}
+
+.contact{
+    color: white;
+    margin-left: 100px;
+}
