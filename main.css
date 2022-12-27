@@ -81,7 +81,7 @@
 }
 
 .websiteBody .body_bgColor{
-    width: 1600px;
+    width: 1500px;
     height: 700px;
     background-color: violet;
     position: absolute;
@@ -236,7 +236,7 @@
 
 .body4{
     background-color: skyblue;
-    width: 120%;
+    width: 1500px;
 }
 .body4 .body4_text{
     position: relative;
@@ -276,7 +276,7 @@
     display: block;
     width: 200px;
     height: 50px;
-    margin-left: 535px;
+    margin-left: 465px;
     border-radius: 7px;
 }
 .body4 .body4_text .body4_btn:hover{
@@ -293,7 +293,7 @@
 }
 .body4 .box1 .box1_text{
     position: absolute;
-    margin-left: 650px;
+    margin-left: 520px;
     display: inline-block;
     width: 800px;
     height: 100%;
@@ -301,7 +301,7 @@
 
 .body4 .box1 .box1_img{
     position: absolute;
-    margin-left: 120px;
+    margin-left: 40px;
     margin-top: 20px;
 }
 .body4 .box1 .box1_img .img1{
@@ -335,12 +335,12 @@
 
 .body4 .box2 .box2_text{
     position: absolute;
-    margin-left: 100px;
+    margin-left: 50px;
 }
 
 .body4 .box2 .box2_img{
     position: absolute;
-    margin-left: 420px;
+    margin-left: 360px;
 }
 .body4 .box2 .box2_img .img2{
     width: 450px;
@@ -626,4 +626,43 @@
 .contact{
     color: white;
     margin-left: 100px;
+}
+
+
+.finalFooter{
+    background-color: darkblue;
+    padding-top: 50px;
+    height: 100px;
+}
+.finalFooter .firstSpan{
+    margin-left: 200px;
+    margin-top: 70px;
+    color: white;
+}
+.finalFooter .material-icons{
+    margin-left: 75px;
+    color: white;
+    margin-right: 40px;
+}
+
+.s1{
+    color: white;
+    margin-right: 40px;
+}
+.s2{
+    color: white;
+    margin-right: 40px;
+}
+.s3{
+    color: white;
+    margin-right: 40px
+}
+.s4{
+    color: white;
+}
+
+.footerLine{
+    width: 1500px;
+    height: 1.5px;
+    background-color: white;
 }
